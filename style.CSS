@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    color: red
+
+}
+header{
+    text-align: center;
+    font: size 60px;
+    color: blue;
+    border-bottom: solid 5px lavender;}
